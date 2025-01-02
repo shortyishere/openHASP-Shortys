@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../OpenHASP/openHASP"
+		},
+		{
+			"name": "openHASP-Shortys",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
